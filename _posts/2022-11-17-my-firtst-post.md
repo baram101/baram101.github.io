@@ -18,6 +18,7 @@ last_modified_at: 2022-11-17
 ###### Data Preprocessing
 <font size="2">
 
+
 **Data Integration** : 여러 source의 data를 하나의 data로 통합
 **Data Cleaning** :  데이터에 존재하는 여러 문제점을 교정
 **Data Transformation** : 정규화, 이산화 등의 방법으로 데이터를 변환
